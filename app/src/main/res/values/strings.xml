@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto1</string>
+    <string name="txt_nombre">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="boton">Iniciar</string>
+    <string name="registrar">Registrarse</string>
+    <string name="txt_view">Datos</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_edad">Edad</string>
+    <string name="txt_nueva_casa">Nueva Casa</string>
+    <string name="txt_ver_casa">Ver lista de casas</string>
+    <string name="txt_fotos_casas">Fotos de casas</string>
+</resources>
